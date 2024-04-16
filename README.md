@@ -1,7 +1,7 @@
 [![MasterHead](https://res.cloudinary.com/daj31htoa/image/upload/v1713248737/Hi_I_am_Temi_A_fullstack_Developer_wh7jci.png)](https://tweetbytems.netlify.app/)
 <h1 align="center">Hi 👋, I'm Ahmed Yusuf Temitope</h1>
 <h3 align="center">With over 2 years of experience as a Frontend Engineer, I excel in crafting and implementing scalable solutions for enterprise-level projects. My expertise lies in developing intricate web applications and platforms across a range of industries, including finance, marketing, sales, and productivity</h3>
-<img align="right" width="400" src="https://res.cloudinary.com/daj31htoa/image/upload/v1713249203/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966_bomfqr.gif" alt="coding" />
+<img align="right" width="400" src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" alt="coding" />
 
 <p align="left"> <a href="https://twitter.com/tweetbytems" target="blank"><img src="https://img.shields.io/twitter/follow/tweetbytems?logo=twitter&style=for-the-badge" alt="tweetbytems" /></a> </p>
 
