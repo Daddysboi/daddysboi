@@ -5,8 +5,6 @@
 <h3 align="left"> I am committed to fostering collaboration and prioritizing customer satisfaction, I continuously seek opportunities for learning and improvement. My current objective is to join a dynamic organization dedicated to growth and diversity, where I can contribute my skills to serve a broad spectrum of individuals.
 </h3>
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" alt="coding" />
-
 <p align="left"> <a href="https://twitter.com/tweetbytems" target="blank"><img src="https://img.shields.io/twitter/follow/tweetbytems?logo=twitter&style=for-the-badge" alt="tweetbytems" /></a> </p>
 
 - 🔭 I’m currently working on [a school management pllatform "Primy"](primy.vercel.app)
