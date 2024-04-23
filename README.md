@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/daj31htoa/image/upload/v1713248737/Hi_I_am_Temi_A_fullstack_Developer_wh7jci.png)](https://tweetbytems.netlify.app/)
+[![MasterHead](https://res.cloudinary.com/daj31htoa/image/upload/v1713830816/Hi_I_am_Temi_A_fullstack_Developer_zjrcsy.png)](https://tweetbytems.netlify.app/)
 <h1 align="center">Hi 👋, I'm Ahmed Yusuf Temitope</h1>
 <h3 align="left">With over 2 years of experience as a Frontend Engineer, I excel in crafting and implementing scalable solutions for enterprise-level projects. My expertise lies in developing intricate web applications and platforms across a range of industries, including finance, marketing, sales, and productivity</h3>
 
