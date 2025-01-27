@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tweetbytems" target="blank"><img src="https://img.shields.io/twitter/follow/tweetbytems?logo=twitter&style=for-the-badge" alt="tweetbytems" /></a> </p>
 
-- 🔭 I’m currently working on [a school management pllatform "Primy"](primy.vercel.app)
+- 🔭 I’m currently working on [a school management platform "Primy"](primy.vercel.app)
 
 - 🌱 I’m currently learning **mobile app development with React Native**
 
