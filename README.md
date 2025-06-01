@@ -1,19 +1,15 @@
 [![MasterHead](https://res.cloudinary.com/daj31htoa/image/upload/v1713830816/Hi_I_am_Temi_A_fullstack_Developer_zjrcsy.png)](https://tweetbytems.netlify.app/)
 <h1 align="center">Hi 👋, I'm Ahmed Yusuf Temitope</h1>
-<h3 align="left">With over 2 years of experience as a Frontend Engineer, I excel in crafting and implementing scalable solutions for enterprise-level projects. My expertise lies in developing intricate web applications and platforms across a range of industries, including finance, marketing, sales, and productivity</h3>
+<h3 align="left">With over 3 years of experience as a Fullstack Engineer, I excel in crafting and implementing scalable solutions for enterprise-level projects. My expertise lies in developing intricate web applications and platforms across a range of industries, including finance, marketing, sales, and productivity</h3>
 
 <h3 align="left"> I am committed to fostering collaboration and prioritizing customer satisfaction, I continuously seek opportunities for learning and improvement. My current objective is to join a dynamic organization dedicated to growth and diversity, where I can contribute my skills to serve a broad spectrum of individuals.
 </h3>
 
 <p align="left"> <a href="https://twitter.com/tweetbytems" target="blank"><img src="https://img.shields.io/twitter/follow/tweetbytems?logo=twitter&style=for-the-badge" alt="tweetbytems" /></a> </p>
 
-- 🔭 I’m currently working on [a school management platform "Primy"](primy.vercel.app)
+- 🔭 I’m currently working on [D Ace Academy website](https://daceacademy.netlify.app)
 
-- 🌱 I’m currently learning **mobile app development with React Native**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Daddysboi](https://github.com/Daddysboi)
-
-- 💬 Ask me about **react, next, node and express**
+- 💬 Ask me about **java, javascript, react, next, node, springboot, and express**
 
 - 📫 How to reach me **temitopeahmedyusuf@gmail.com**
 
