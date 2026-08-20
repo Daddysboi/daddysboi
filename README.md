@@ -10,7 +10,7 @@ I am an experienced **Fullstack Engineer** with a proven track record of buildin
 I specialize in developing **web platforms** across industries such as **finance, edtech, marketing, and productivity**.  
 
 🌱 I am passionate about continuous learning, team collaboration, and delivering impactful software solutions that prioritize customer satisfaction.  
-🔭 I’m currently working on: [Southward Hospital EMR Syste,](https://southwardhospital.com) — a premier educational platform for international medical graduates (IMGs).  
+🔭 I’m currently working on: [Southward Hospital EMR System,](https://southwardhospital.com) — a premier educational platform for international medical graduates (IMGs).  
 
 ---
 
